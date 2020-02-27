@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://blog.tomasnovacek.com",
+    "contentApiKey": "2be1a439ba54adf76f1ee5db55"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://blog.tomasnovacek.com",
+    "contentApiKey": "2be1a439ba54adf76f1ee5db55"
   }
 }
