@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://blog.tomasnovacek.com",
+    "apiUrl": "https://blog.tomnovacek.com",
     "contentApiKey": "2be1a439ba54adf76f1ee5db55"
   },
   "production": {
-    "apiUrl": "https://blog.tomasnovacek.com",
+    "apiUrl": "https://blog.tomnovacek.com",
     "contentApiKey": "2be1a439ba54adf76f1ee5db55"
   }
 }
